@@ -30,3 +30,16 @@ To use Cyrus, you need to have Python installed on your system. Clone the reposi
 ```bash
 git clone https://github.com/ShakilShaikh/Cyrus.git
 cd Cyrus
+
+#
+Once the script is running, you will see a console UI with options like:
+
+
+```1) Hash Crack [MD5, SHA1, SHA256]
+2) Hash Generator [MD5, SHA1, SHA256]
+3) Encode Decode [BASE64, URL]
+4) SQLi
+5) Dir Buster
+99) Exit
+
+
