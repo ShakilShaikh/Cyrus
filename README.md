@@ -17,9 +17,9 @@ Cyrus is a Python script designed for educational purposes, offering various too
 
 3. **Encode Decode [BASE64, URL]:** Encode and decode text using BASE64 or URL encoding schemes.
 
-4. **SQL Injection (SQLi):** A tool for educational purposes to understand SQL injection vulnerabilities.
+4. **SQL Injection (SQLi):** A tool for educational purposes to understand SQL injection vulnerabilities. (disabled)
 
-5. **Directory Buster:** Discover hidden directories and files on a web server.
+5. **Directory Buster:** Discover hidden directories and files on a web server. (disabled)
 
 99. **Exit:** Terminate the script.
 
